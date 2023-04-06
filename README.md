@@ -7,6 +7,7 @@
 
 - <b>Arrays</b>
 - <b>Struct</b>
+- <b>Dynamic Memory Allocation</b>
 - <b>Algorithm & Time Complexity</b>
 - <b>Linked Lists</b>
 - <b>Stack Data Structure</b>
