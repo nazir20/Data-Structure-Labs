@@ -11,5 +11,7 @@
 - <b>Algorithm & Time Complexity</b>
 - <b>Linked Lists</b>
 - <b>Stack Data Structure</b>
+- <b>Queue Data Structure</b>
+- <b>Binary Tree</b>
 
 it will be updated...
